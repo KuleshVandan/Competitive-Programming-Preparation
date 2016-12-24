@@ -1,5 +1,5 @@
 // Author : Kulesh Vandan
-// Vuideo game - ZCO 2014
+// Video Game - ZCO 2014
 
 #include<iostream>
 #include<vector>
